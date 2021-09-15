@@ -43,6 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:6.8.0"],
             ["eslint-plugin-vue", "virtual:0117d3050f461f1ad8f2920c4b6797df5da1e2de71bb5f6c832d9d41d37e2851a9c3798ebe62b3c296f13c11fb65488beb1d2233ec61d61759b759f692a81a2c#npm:6.2.2"],
             ["vue", "npm:2.6.14"],
+            ["vue-router", "npm:3.5.2"],
             ["vue-template-compiler", "npm:2.6.14"]
           ],
           "linkType": "SOFT",
@@ -12319,6 +12320,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:6.8.0"],
             ["eslint-plugin-vue", "virtual:0117d3050f461f1ad8f2920c4b6797df5da1e2de71bb5f6c832d9d41d37e2851a9c3798ebe62b3c296f13c11fb65488beb1d2233ec61d61759b759f692a81a2c#npm:6.2.2"],
             ["vue", "npm:2.6.14"],
+            ["vue-router", "npm:3.5.2"],
             ["vue-template-compiler", "npm:2.6.14"]
           ],
           "linkType": "SOFT",
@@ -14126,6 +14128,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             "@types/webpack",
             "@vue/compiler-sfc",
             "webpack"
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["vue-router", [
+        ["npm:3.5.2", {
+          "packageLocation": "./.yarn/cache/vue-router-npm-3.5.2-b528e33679-342049e7cb.zip/node_modules/vue-router/",
+          "packageDependencies": [
+            ["vue-router", "npm:3.5.2"]
           ],
           "linkType": "HARD",
         }]

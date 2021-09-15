@@ -9776,6 +9776,7 @@ fsevents@~2.3.2:
     eslint: ^6.7.2
     eslint-plugin-vue: ^6.2.2
     vue: ^2.6.11
+    vue-router: ^3.5.2
     vue-template-compiler: ^2.6.11
   languageName: unknown
   linkType: soft
@@ -11296,6 +11297,13 @@ fsevents@~2.3.2:
     vue-template-compiler:
       optional: true
   checksum: ca4c99b2617b207eb96925b889669f8bfecb6e82d22ed59220b324b6caaccc38bf3bc1d7961353155ab19ec71b791e887e8a06109ec719e8a791a2b00a2420bc
+  languageName: node
+  linkType: hard
+
+"vue-router@npm:^3.5.2":
+  version: 3.5.2
+  resolution: "vue-router@npm:3.5.2"
+  checksum: 342049e7cb0e4974879c57f9ecce342c180a1abce8df71137f902b201faa18d0a65c44936cbd4e9d62d5770d8f95395d73a5e05efa255475817f350bf7a094d1
   languageName: node
   linkType: hard
 
